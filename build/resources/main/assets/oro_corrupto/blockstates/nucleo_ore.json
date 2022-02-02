@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "oro_corrupto:block/nucleo_ore"
+    }
+  }
+}

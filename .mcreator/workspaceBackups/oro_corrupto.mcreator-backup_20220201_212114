@@ -1,0 +1,147 @@
+{
+  "mod_elements": [
+    {
+      "name": "Oro_CorruptoIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oro_corrupto_ingot"
+    },
+    {
+      "name": "Oro_CorruptoOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oro_corrupto_ore_smelting"
+    },
+    {
+      "name": "Oro_CorruptoPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oro_corrupto_pickaxe_recipe"
+    },
+    {
+      "name": "Oro_CorruptoAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oro_corrupto_axe_recipe"
+    },
+    {
+      "name": "Oro_CorruptoSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oro_corrupto_sword_recipe"
+    },
+    {
+      "name": "Oro_CorruptoShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oro_corrupto_shovel_recipe"
+    },
+    {
+      "name": "Oro_CorruptoHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oro_corrupto_hoe_recipe"
+    },
+    {
+      "name": "Oro_CorruptoArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oro_corrupto_armor_helmet_recipe"
+    },
+    {
+      "name": "Oro_CorruptoArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oro_corrupto_armor_body_recipe"
+    },
+    {
+      "name": "Oro_CorruptoArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oro_corrupto_armor_leggings_recipe"
+    },
+    {
+      "name": "Oro_CorruptoArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oro_corrupto_armor_boots_recipe"
+    },
+    {
+      "name": "Nucleo",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nucleo"
+    },
+    {
+      "name": "NucleoOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nucleo_ore"
+    },
+    {
+      "name": "NucleoOreSmelting",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nucleo_ore_smelting"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.oro_corrupto.oro_corrupto_ingot": "Oro_Corrupto",
+      "block.oro_corrupto.nucleo_ore": "Nucleo Ore",
+      "item.oro_corrupto.nucleo": "Nucleo"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "oro_corrupto",
+    "modName": "oro corrupto",
+    "version": "1.0.0",
+    "author": "lolwa, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "modElementsPackage": "net.mcreator.orocorrupto",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}
